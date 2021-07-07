@@ -1,0 +1,28 @@
+{
+  "name": "practica_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "lint": "standard",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josue2h/practica_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josue2h/practica_1/issues"
+  },
+  "homepage": "https://github.com/josue2h/practica_1#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9",
+    "standard": "^16.0.3"
+  }
+}
